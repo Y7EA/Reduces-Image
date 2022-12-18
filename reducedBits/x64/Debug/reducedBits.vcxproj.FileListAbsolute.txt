@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\reducedBits\reducedBits\reducedBits\x64\Debug\reducedBits.vcxproj.AssemblyReference.cache
+C:\Users\user\Desktop\reducedBits\reducedBits\reducedBits\x64\Debug\reducedBits.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\reducedBits\reducedBits\reducedBits\x64\Debug\reducedBits.conversion.resources
+C:\Users\user\Desktop\reducedBits\reducedBits\reducedBits\x64\Debug\reducedBits.vcxproj.GenerateResource.cache
+C:\Users\Y7EA\Desktop\project2-main\reducedBits\x64\Debug\reducedBits.vcxproj.AssemblyReference.cache
+C:\Users\Y7EA\Desktop\project2-main\reducedBits\x64\Debug\reducedBits.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Y7EA\Desktop\project2-main\reducedBits\x64\Debug\reducedBits.conversion.resources
+C:\Users\Y7EA\Desktop\project2-main\reducedBits\x64\Debug\reducedBits.vcxproj.GenerateResource.cache
+C:\Users\Y7EA\Desktop\Multimedia Fundamentals\Reduces Image\reducedBits\x64\Debug\reducedBits.vcxproj.AssemblyReference.cache
+C:\Users\Y7EA\Desktop\Multimedia Fundamentals\Reduces Image\reducedBits\x64\Debug\reducedBits.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Y7EA\Desktop\Multimedia Fundamentals\Reduces Image\reducedBits\x64\Debug\reducedBits.conversion.resources
+C:\Users\Y7EA\Desktop\Multimedia Fundamentals\Reduces Image\reducedBits\x64\Debug\reducedBits.vcxproj.GenerateResource.cache
