@@ -23,10 +23,12 @@ Alternatively, you can use the command line to build the program using the follo
 
 bash
 Copy code
+```
 $ cd <project_directory>
 $ mkdir build && cd build
 $ cmake ..
 $ make
+```
 # How to Use
 
 Launch the program and click on the "Load Image" button to select an image from your PC.
