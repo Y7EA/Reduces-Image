@@ -36,6 +36,6 @@ Enter the desired number of bits for the red, green, and blue channels of the im
 Click on the "Convert" button to apply the RGB conversion.
 The resulting image will appear alongside the input image in the GUI.
 Optionally, you can save the resulting image to your PC.
-# Acknowledgments
+# Contributors
 
 This project was completed by Yahya & Rahaf.
